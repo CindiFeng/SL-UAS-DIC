@@ -44,6 +44,7 @@ From MATLAB command window:
 
 ```matlab
 run('run_main.m');            % Runs the simulation and plots results
+```
 
 Example result:
 ![alt text](Result.png "Slung-payload UAS reaches desired location")
